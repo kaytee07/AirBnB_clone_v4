@@ -20,7 +20,10 @@ header {
     width: 40px;
     right:30px;
     transform: translateY(-50%);
-    top: 50%;
-    border-radius: 50%;
+    border-radius:50%;
     background-color: #ccccc
+}
+
+.available {
+    background-color: #ff545f;
 }
